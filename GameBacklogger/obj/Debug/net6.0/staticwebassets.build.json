@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "eRqvTWOqHd68xDUFLiKL7DhxQXRC3E8oER36tDJZZNs=",
-  "Source": "GameBacklogger",
-  "BasePath": "_content/GameBacklogger",
+  "Hash": "aUElMeVqjlBnaRL+VvzKj1RiLkn/mEiiGblT1dfmLYY=",
+  "Source": "GameBackloggerApi",
+  "BasePath": "_content/GameBackloggerApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

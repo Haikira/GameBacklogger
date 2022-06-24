@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l09XvWNMZhcdE8fG4JpwaLpDTW51iwuHBMNn60G0K5p0u1mdiOah1VCYCBAW81mCGokb5Oj0VbCzEKXEqXCv/Q==",
+  "dgSpecHash": "NgkKlZCI4+SR34kEJOIKRjAnBoM9dvE7TxBpPyQb7D+KlS5kChDe8ZpMjYBVnDjnSKf+9rYQuq/1ESpxsQcoMQ==",
   "success": true,
-  "projectFilePath": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBacklogger.csproj",
+  "projectFilePath": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBackloggerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haiki\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\haiki\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

@@ -1,4 +1,4 @@
-﻿namespace GameBacklogger.Models
+﻿namespace GameBackloggerApi.Models
 {
     public class VideoGame
     {

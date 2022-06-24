@@ -685,9 +685,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBacklogger.csproj",
-      "projectName": "GameBacklogger",
-      "projectPath": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBacklogger.csproj",
+      "projectUniqueName": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBackloggerApi.csproj",
+      "projectName": "GameBackloggerApi",
+      "projectPath": "C:\\Development\\GameBacklogger\\GameBacklogger\\GameBackloggerApi.csproj",
       "packagesPath": "C:\\Users\\haiki\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\GameBacklogger\\GameBacklogger\\obj\\",
       "projectStyle": "PackageReference",
